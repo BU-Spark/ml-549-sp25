@@ -37,10 +37,10 @@ Project Managers and TE:
 - PM: TBA 
 - TE: TBA
 
-**Piazza:** [https://piazza.com/bu/fall2024/dscs549](https://piazza.com/bu/fall2024/dscs549)   (access code to be shared via email)<br>
+**Piazza:** TBD   (access code to be shared via email)<br>
 _Please use Piazza, not email, for all questions, including grading or missing class, etc. (use the private message to instructors for such requests)_
 
-**GradeScope:** [https://www.gradescope.com/courses/845171](https://www.gradescope.com/courses/845171) (access code to be shared via email)<br>
+**GradeScope:** TBD (access code to be shared via email)<br>
 _If you don’t have access, contact the instructors via Piazza or email._
 
 ## Course Description
@@ -342,7 +342,7 @@ If you are a student with a disability or believe you might have a disability th
 
 There will be a formal course evaluation at the end of the term.
 
-We also appreciate feedback at any time. You are welcome to do that via office hours, email, Piazza or you can submit feedback anonymously [HERE](https://forms.gle/JfGU4TMbCKxzyuL77).   
+We also appreciate feedback at any time. You are welcome to do that via office hours, email, Piazza or you can submit feedback anonymously [HERE](https://forms.gle/YLqRcR4khusSexEt5).   
 
 What works for you? What doesn’t? Do you have an idea how to improve something?
 
