@@ -1,11 +1,11 @@
 ---
-title: Syllabus
+title: Syllabus -- Spring 2025
 ---
 
 <img src="assets/images/spark-logo.png" alt="Spark Logo" style="width: 100px; float: left; margin-right: 10px;">
 
 
-# CS/DS-549 Spark! Machine Learning Practicum Syllabus
+# CS/DS-549 Spark! Machine Learning Practicum
 
 
 The Spark! Machine Learning Practicum gives you hands-on experience developing solutions
@@ -19,16 +19,16 @@ select lectures and assignments.
 
 ## Logistics 
 
-**Time/Location:** Tue/Thu 2:00pm–3:15pm, Spring 2024<br>
-**Location:** CDS 264
+**Time/Location:** Tue/Thu 5:00pm–6:15pm, Spring 2025<br>
+**Location:** CDS B64
 
 **Course Number:** CS/DS 549<br>
 **Course Credits:** 4
 
-**Instructor:**
+**Instructors:**
 
 - Thomas Gardos ( tgardos@bu.edu) 
-- Office hours:  Thursdays, 3:30-4:30 and by appointment
+- Office hours:  Tuesdays and Thursdays, 1:30-3:00pm
 - Location: CDS 1623
 
 Project Managers and TE:

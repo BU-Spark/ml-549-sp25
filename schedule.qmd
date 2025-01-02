@@ -15,7 +15,7 @@ title: Schedule
         <td colspan="4"  style="background-color: #ededed"><b>Week 1</b> <i>(Preliminaries)</i></td>
     </tr>
     <tr>
-        <td>Tue Sep 3</td>
+        <td>Tue Jan 21</td>
         <td>01 -- Welcome, introduction, and course overview.</td>
         <td> <a href="https://docs.google.com/presentation/d/1fX06VJhGbSvB2pyM67pPjspNp1Co4zMZjTHr_B2uprY">Lecture Slides</a></td>
         <td><b>Assigned:</b>
@@ -26,7 +26,7 @@ title: Schedule
           <br><b>Due:</b> Nothing </td>
     </tr>
     <tr>
-        <td>Thu Sep 5</td>
+        <td>Thu Jan 23</td>
         <td> 02 -- Topics
             <ul> 
                 <li><b>Project Pitches</b></li>
@@ -55,7 +55,7 @@ title: Schedule
         <td colspan="4" style="background-color: #ededed"><b>Week 2</b> <i>(Preliminaries)</i></td>
     </tr>
     <tr>
-        <td>Tue Sep 10</td>
+        <td>Tue Jan 28</td>
         <td> 03 -- Topics
             <ul>
                 <li>Git and GitHub</li>
@@ -71,7 +71,7 @@ title: Schedule
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr>
-        <td>Thu Sep 12</td>
+        <td>Thu Jan 30</td>
         <td> 04 -- Topics
             <ul>
                 <li>ML Project Lifecycle</li>
@@ -85,14 +85,14 @@ title: Schedule
         <td colspan="4"  style="background-color: #fce9d7"><b>Week 3</b> <i>(Project Week 1 -- Project Definition)</i></td>
     </tr>
     <tr>
-        <td>Tue Sep 17</td>
+        <td>Tue Feb 4</td>
         <td> 05 -- Team Formation and Agreement
         </td>
         <td> <a href="https://docs.google.com/presentation/d/1OfMZJga4JM7GPbJN5SRslcSS8NFd_iqQEJrB6Ae5q4s/edit?usp=sharing">Lecture Slides</a> </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr>
-        <td>Thu Sep 19</td>
+        <td>Thu Feb 6</td>
         <td> 06 -- ML Ethics (Seth V.)</td>
         <td> <a href="https://drive.google.com/file/d/1nN1xaaP8VVG-s-GiaAhVO2_0L7bDJSED/view?usp=drive_link">Lecture Slides</a> </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
@@ -101,7 +101,7 @@ title: Schedule
         <td colspan="4"  style="background-color: #fce9d7"><b>Week 4</b> <i>(Project Week 2 -- Project Definition)</i></td>
     </tr>
     <tr>
-        <td>Tue Sep 24</td>
+        <td>Tue Feb 11</td>
         <td> 07 -- Topics
             <ul>
                 <li>Project Outline Document</li>
@@ -117,7 +117,7 @@ title: Schedule
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr>
-        <td>Thu Sep 26</td>
+        <td>Thu Feb 13</td>
         <td> 08 -- Topics 
             <ul>
                 <li> SCC Batch Computing </li>
@@ -131,7 +131,7 @@ title: Schedule
         <td colspan="4"  style="background-color: #fcfad7"><b>Week 5</b> <i>(Project Week 3 -- Research)</i></td>
     </tr>
     <tr>
-        <td>Tue Oct 01</td>
+        <td>Tue Feb 18</td>
         <td> 09 -- Topics
             <ul>
                 <li>How to read a research paper</li>
@@ -143,7 +143,7 @@ title: Schedule
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr>
-        <td>Thu Oct 03</td>
+        <td>Thu Feb 20</td>
         <td>10 -- Topics
             <ul>
                 <li>PyTorch Intro (Part 1)</li>
@@ -157,23 +157,23 @@ title: Schedule
         <td colspan="4"  style="background-color: #eefcd7"><b>Week 6</b> <i>(Project Week 4 -- EDA)</i></td>
     </tr>
     <tr   style="background-color: #fcd7e2">
-        <td>Tue Oct 8</td>
+        <td>Tue Feb 25</td>
         <td>
             <b>Project Definition and Research Presentations</b>
             <ul>
-                <li>2:05 -- 2:15 : AIMpower</li>
-                <li>2:17 -- 2:27 : Racist Deeds </li>
-                <li>2:29 -- 2:39 : BPS Policy Bot </li>
-                <li>2:41 -- 2:51 : Recycling Contamination (Spare-It) </li>
-                <li>2:53 -- 3:03 : BPL Multimedia Search </li>
-                <li>3:05 -- 3:15 : NLG Predictive Text </li>
+                <li>5:05 -- 5:15 : Team 1</li>
+                <li>5:17 -- 5:27 : Team 2 </li>
+                <li>5:29 -- 5:39 : Team 3 </li>
+                <li>5:41 -- 5:51 : Team 4 </li>
+                <li>5:53 -- 6:03 : Team 5 </li>
+                <li>6:05 -- 6:15 : Team 6 </li>
             </ul>
         </td>
         <td> TBA </td>
         <td><b>Assigned:</b>  <br><b>Due:</b> Presentations </td>
     </tr>
     <tr>
-        <td>Thu Oct 10</td>
+        <td>Thu Feb 27</td>
         <td>
             <ul>
                 <li>11 -- Exploratory Data Analysis</li>
@@ -187,11 +187,11 @@ title: Schedule
         <td colspan="4"  style="background-color: #eefcd7"><b>Week 7</b> <i>(Project Week 5 -- EDA)</i></td>
     </tr>
     <tr>
-        <td>Tue Oct 15</td>
-        <td colspan="3">No class. Substitute Monday's schedule.</td>
+        <td>Tue Mar 4</td>
+        <td colspan="3">TBD.</td>
     </tr>
     <tr>
-        <td>Thu Oct 17</td>
+        <td>Thu Mar 6</td>
         <td>
             <ul>
                 <li>12 -- PyTorch 02: Dataloaders and Transforms</li>
@@ -201,11 +201,14 @@ title: Schedule
         <td> <a href="12-pytorch-02-dataloaders.qmd">Dataloaders and Transforms</a> </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
+    <tr> <!-- ### Spring Recess ### -->
+        <td colspan="4"  style="background-color: #edededa"><b>Spring Recess</b></td>
+    </tr>
     <tr> <!-- ### Week 8 ### -->
         <td colspan="4"  style="background-color: #d7fcf8"><b>Week 8</b> <i>(Project Week 6 -- PoC)</i></td>
     </tr>
     <tr>
-        <td>Tue Oct 22</td>
+        <td>Tue Mar 18</td>
         <td>
             <ul>
                 <li>13 -- PLC Phase 04: PoC</li>
@@ -222,7 +225,7 @@ title: Schedule
         <td><b>Assigned:</b>  <br><b>Due:</b> Presentations </td>
     </tr>
     <tr>
-        <td>Thu Oct 24</td>
+        <td>Thu Mar 20</td>
         <td>
             <ul>
                 <li>14 -- PyTorch 04: Autograd and Backprop</li>
@@ -242,7 +245,7 @@ title: Schedule
         <td colspan="4"  style="background-color: #d7fcf8"><b>Week 9</b> <i>(Project Week 7 -- PoC)</i></td>
     </tr>
     <tr>
-        <td>Tue Oct 29</td>
+        <td>Tue Mar 25</td>
         <td>
             <ul>
                 <li>16 -- LLM 01 - Building a Simple LLM App with LangChain</li>
@@ -253,7 +256,7 @@ title: Schedule
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr>
-        <td>Thu Oct 31</td>
+        <td>Thu Mar 27</td>
         <td>
             <ul>
                 <li>17 -- LLM 02 - Build a simple LLM app with LangChain</li>
@@ -267,23 +270,23 @@ title: Schedule
         <td colspan="4"  style="background-color: #d7e2fc"><b>Week 10</b> <i>(Project Week 8 -- Deployment)</i></td>
     </tr>
     <tr style="background-color: #fcd7e2">
-        <td>Tue Nov 5</td>
+        <td>Tue Apr 1</td>
         <td>
             <b>Project EDA and PoC Presentations</b>
             <ul>
-                <li>2:05 -- 2:15 : NLG Predictive Text </li>
-                <li>2:17 -- 2:27 : BPL Multimedia Search </li>
-                <li>2:29 -- 2:39 : Recycling Contamination (Spare-It) </li>
-                <li>2:41 -- 2:51 : BPS Policy Bot </li>
-                <li>2:53 -- 3:03 : Racist Deeds </li>
-                <li>3:05 -- 3:15 : AIMpower</li>
+                <li>5:05 -- 5:15 : Team 1</li>
+                <li>5:17 -- 5:27 : Team 2 </li>
+                <li>5:29 -- 5:39 : Team 3 </li>
+                <li>5:41 -- 5:51 : Team 4 </li>
+                <li>5:53 -- 6:03 : Team 5 </li>
+                <li>6:05 -- 6:15 : Team 6 </li>
             </ul>
         </td>
         <td>  TBA </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr>
-        <td>Thu Nov 7</td>
+        <td>Thu Apr 3</td>
         <td><b>Lab Day</b> -- Work with your teams on project deployment.</td>
         <td> TBA </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
@@ -292,7 +295,7 @@ title: Schedule
         <td colspan="4"  style="background-color: #d7e2fc"><b>Week 11</b> <i>(Project Week 9 -- Deployment)</i></td>
     </tr>
     <tr>
-        <td>Tue Nov 12</td>
+        <td>Tue Apr 8</td>
         <td>
             <ul>
                 <li>18 -- LangChain 03: Embeddings, vector stores and retrievers</li>
@@ -303,7 +306,7 @@ title: Schedule
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr>
-        <td>Thu Nov 14</td>
+        <td>Thu Apr 10</td>
         <td>Lecture description.</td>
         <td> Instructor sick. Self-directed lab time. </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
@@ -312,13 +315,13 @@ title: Schedule
         <td colspan="4"  style="background-color: #d7e2fc"><b>Week 12</b> <i>(Project Week 10 -- Deployment)</i></td>
     </tr>
     <tr>
-        <td>Tue Nov 19</td>
+        <td>Tue Apr 15</td>
         <td>Lab Day -- Work with your teams on project deployment.</td>
         <td> TBA </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr>
-        <td>Thu Nov 21</td>
+        <td>Thu Apr 17</td>
         <td>Lab Day -- Work with your teams on project deployment</td>
         <td> TBA </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
@@ -327,53 +330,39 @@ title: Schedule
         <td colspan="4"  style="background-color: #e8d7fc"><b>Week 13</b> <i>(Project Week 11 -- Evaluation)</i></td>
     </tr>
     <tr>
-        <td>Tue Nov 26</td>
+        <td>Tue Apr 22</td>
         <td>Lab Day -- Work with your teams on project deployment and evaluation</td>
         <td>  TBA </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>Beta milestone check-in</td>
     </tr>
     <tr>
-        <td>Thu Nov 28</td>
+        <td>Thu Apr 24</td>
         <td colspan="3">No class. Thanksgiving recess.</td>
     </tr>
     <tr> <!-- ### Week 14 ### -->
         <td colspan="4"  style="background-color: #e8d7fc"><b>Week 14</b> <i>(Project Week 12 -- Evaluation)</i></td>
     </tr>
     <tr>
-        <td>Tue Dec 3</td>
+        <td>Tue Apr 29</td>
         <td>Lab day -- Work with your team on project deployment/evaluation and final presentations.</td>
         <td>  TBA </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr   style="background-color: #fcd7e2">
-        <td>Thu Dec 5</td>
+        <td>Thu May 1</td>
         <td>
             <b>Project Final Presentations</b>
             <ul>
-                <li>2:05 -- 2:15 : Recycling Contamination (Spare-It)</li>
-                <li>2:17 -- 2:27 : BPS Policy Bot</li>
-                <li>2:29 -- 2:39 : BPL Multimedia Search</li>
-                <li>2:41 -- 2:51 : Racist Deeds</li>
-                <li>2:53 -- 3:03 : NLG Predictive Text</li>
-                <li>3:05 -- 3:15 : AIMpower</li>
+                <li>5:05 -- 5:15 : Team 1</li>
+                <li>5:17 -- 5:27 : Team 2</li>
+                <li>5:29 -- 5:39 : Team 3</li>
+                <li>5:41 -- 5:51 : Team 4</li>
+                <li>5:53 -- 6:03 : Team 5</li>
+                <li>6:05 -- 6:15 : Team 6</li>
             </ul>
         </td>
         <td> TBA </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
-    </tr>
-        <tr> <!-- ### Week 15 ### -->
-        <td colspan="4"  style="background-color: #ededed"><b>Week 15</b> <i>(Presentations and Demos)</i></td>
-    </tr>
-    <tr>
-        <td>Tue Dec 10</td>
-        <td>Last Class: Lab Day and Demo Day Prep</td>
-        <td>  TBA </td>
-        <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
-    </tr>
-    <tr>
-        <td>Wed Dec 11</td>
-        <td><b>Spark! Demo Day 4-7pm</b></td>
-        <td colspan="2">  TBA </td>
     </tr>
 </table>
 ```
