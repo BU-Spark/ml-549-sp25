@@ -132,7 +132,7 @@ title: Schedule
     </tr>
     <tr>
         <td>Tue Feb 18</td>
-        <td> 09 -- Topics
+        <td> <b>NO CLASS -- Monday Schedule</b> Revise: 09 -- Topics
             <ul>
                 <li>How to read a research paper</li>
                 <li>PLC -- Research Phase</li>
