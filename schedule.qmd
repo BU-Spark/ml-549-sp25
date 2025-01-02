@@ -17,7 +17,7 @@ title: Schedule
     <tr>
         <td>Tue Jan 21</td>
         <td>01 -- Welcome, introduction, and course overview.</td>
-        <td> <a href="https://docs.google.com/presentation/d/1fX06VJhGbSvB2pyM67pPjspNp1Co4zMZjTHr_B2uprY">Lecture Slides</a></td>
+        <td> <a href="https://docs.google.com/presentation/d/135_D1DNMp4JsDGHHoYZ_u33NRe6r6xiiVFexs76M2jI">Lecture Slides</a></td>
         <td><b>Assigned:</b>
           <ul>
             <li>Intro Survey (Gradescope)</li>
@@ -78,7 +78,7 @@ title: Schedule
                 <li>MLops</li>
             </ul>
         </td>
-        <td> <a href="https://docs.google.com/presentation/d/1ONF_yENxXJW89GmrM4sSCCe5USJj-RCgimrsWCBdkQQ/edit?usp=sharing">Lecture Slides</a> </td>
+        <td> <a href="https://docs.google.com/presentation/d/1TvUsZpY4FyOPT5Wcs_UUgg6wsizxzw4b08ETzR1AEuY">Lecture Slides</a> </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr> <!-- ### Week 3 ### -->
@@ -88,13 +88,13 @@ title: Schedule
         <td>Tue Feb 4</td>
         <td> 05 -- Team Formation and Agreement
         </td>
-        <td> <a href="https://docs.google.com/presentation/d/1OfMZJga4JM7GPbJN5SRslcSS8NFd_iqQEJrB6Ae5q4s/edit?usp=sharing">Lecture Slides</a> </td>
+        <td> <a href="https://docs.google.com/presentation/d/1o-e4he9keytsTxhBeOTwwPUYn_ViKt7ZlZu3Git8ekk">Lecture Slides</a> </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr>
         <td>Thu Feb 6</td>
         <td> 06 -- ML Ethics (Seth V.)</td>
-        <td> <a href="https://drive.google.com/file/d/1nN1xaaP8VVG-s-GiaAhVO2_0L7bDJSED/view?usp=drive_link">Lecture Slides</a> </td>
+        <td> Lecture Slides TBD </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
         <tr> <!-- ### Week 4 ### -->
@@ -110,7 +110,7 @@ title: Schedule
         </td>
         <td>
             <ul>
-                <li><a href="https://docs.google.com/presentation/d/16i6dQAnyoTw3WoJF_fENnkAhz08LL1mOaB0sWi3u8gw/edit?usp=drive_link">Lecture Slides</a></li>
+                <li><a href="https://docs.google.com/presentation/d/1tS5gvrz5wA4tKfvVJy3EiyO_TwDpwT4XAeftjEHapK0">Lecture Slides</a></li>
                 <li><a href="07_scc_cont.qmd">SCC env notes</a></li>
             </ul>
         </td>
@@ -139,7 +139,7 @@ title: Schedule
                 <li>Lab time</li>
             </ul>
         </td>
-        <td><a href="https://docs.google.com/presentation/d/1jQHkgNBut2OG42euEB2JIhqZTrarPMlfgVN0xaMbYVk/edit?usp=sharing">Slides</a></td>
+        <td><a href="https://docs.google.com/presentation/d/161bzx5HoYdrkfjK8skaqMPirON0FyMz6BSZv_tiX9YE">Slides</a></td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr>
@@ -180,7 +180,7 @@ title: Schedule
                 <li>Lab time</li>
             </ul>
         </td>
-        <td> <a href="https://docs.google.com/presentation/d/16Kc-rr_plsG0Yk4YVLtGT762-ZxoSk-K6_Fl2vWdj3w/edit?usp=drive_link">EDA Slides</a> </td>
+        <td> <a href="https://docs.google.com/presentation/d/13076NAdUOqW5YiirdwlFPn8n_mYhZgdemdo_q_ftuvQ">EDA Slides</a> </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr> <!-- ### Week 7 ### -->
@@ -218,7 +218,7 @@ title: Schedule
         </td>
         <td> 
             <ul>
-                <li><a href="https://docs.google.com/presentation/d/1gLtFZAz-Yckkp9FLuY7o4CJH4uO_JBDXcE_iBpxlOTg/edit?usp=sharing">PLC Phase 04: PoC</a> </li>
+                <li><a href="https://docs.google.com/presentation/d/1kC65AoQcHARBt7Rs9G2h3ktz_qJWnlN7c-_NKXaoKdU">PLC Phase 04: PoC</a> </li>
                 <li><a href="13-pytorch-03-model-def.qmd">PyTorch 03: Model Definition</a> </li>
             </ul>
         </td>
