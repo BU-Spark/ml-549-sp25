@@ -28,6 +28,7 @@ select lectures and assignments.
 **Instructors:**
 
 - Thomas Gardos ( tgardos@bu.edu) 
+- Ali Nahvi
 - Office hours:  Tuesdays and Thursdays, 1:30-3:00pm
 - Location: CDS 1623
 
