@@ -27,9 +27,13 @@ select lectures and assignments.
 
 **Instructors:**
 
-- Thomas Gardos ( tgardos@bu.edu) 
+- Thomas Gardos (tgardos@bu.edu) 
 - Office hours:  Tuesdays and Thursdays, 1:30-3:00pm
 - Location: CDS 1623
+
+- Ali Nahvi (TBD)
+- Office hours: Thursdays 4-5pm
+- Location: TBD
 
 Project Managers and TE:
 
