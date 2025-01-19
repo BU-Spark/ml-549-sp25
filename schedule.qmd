@@ -225,7 +225,7 @@ Abbreviations:
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr> <!-- ### Spring Recess ### -->
-        <td colspan="4"  style="background-color: #edededa"><b>Spring Recess</b></td>
+        <td colspan="4" style="background-color: ##fcba03"><b>Spring Recess</b></td>
     </tr>
     <tr> <!-- ### Week 8 ### -->
         <td colspan="4"  style="background-color: #d7fcf8"><b>Week 8</b> <i>(Project Week 6 -- PoC)</i></td>
@@ -354,7 +354,7 @@ Abbreviations:
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr> <!-- ### Week 14 ### -->
-        <td colspan="4"  style="background-color: #e8d7fc"><b>Week 14</b> <i>(Project Week 12 -- Evaluation)</i></td>
+        <td colspan="4"  style="background-color: #e8d7fc"><b>Week 14</b> <i>(Project Week 12 -- Wrap Up)</i></td>
     </tr>
     <tr  style="background-color: #fcd7e2">
         <td>Tue Apr 29</td>
@@ -374,8 +374,14 @@ Abbreviations:
     </tr>
     <tr>
         <td>Thu May 1</td>
+        <td> Spark/Class Evals and Project Wrap Up </td>
         <td> TBA </td>
-        <td> TBA </td>
+        <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
+    </tr>
+    <tr>
+        <td>Fri May 2</td>
+        <td> 4pm -- 7pm Spark Demo Day </td>
+        <td> Mandatory Attendance </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
 
