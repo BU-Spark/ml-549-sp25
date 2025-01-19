@@ -2,6 +2,11 @@
 title: Schedule
 ---
 
+Abbreviations:
+
+- TG: Thomas Gardos
+- AN: Ali Nahvi
+
 ```{=html}
 <table>
     <tr>
@@ -16,25 +21,24 @@ title: Schedule
     </tr>
     <tr>
         <td>Tue Jan 21</td>
-        <td>01 -- Welcome, introduction, and course overview.</td>
-        <td> <a href="https://docs.google.com/presentation/d/135_D1DNMp4JsDGHHoYZ_u33NRe6r6xiiVFexs76M2jI">Lecture Slides</a></td>
+        <td>01 -- Welcome, introduction, and course overview (TG, AN).</td>
+        <td> <a href="https://docs.google.com/presentation/d/135_D1DNMp4JsDGHHoYZ_u33NRe6r6xiiVFexs76M2jI/edit?usp=sharing">Lecture Slides</a></td>
         <td><b>Assigned:</b>
           <ul>
             <li>Intro Survey (Gradescope)</li>
-            <li><a href="01_command_shells.qmd">HW1-Command Shells</a></li>
           </ul>
-          <br><b>Due:</b> Nothing </td>
+          <br><b>Due:</b> 11:59pm tonight </td>
     </tr>
     <tr>
         <td>Thu Jan 23</td>
-        <td> 02 -- Topics
+        <td> 02 -- Topics (TG)
             <ul> 
                 <li><b>Project Pitches</b></li>
                 <li>Command Shells Recap</li>
                 <li>Python Environments</li>
             </ul>
         </td>
-        <td> 
+        <td> Bring your laptop to follow along with the lecture.
             <ul>
                 <li><a href="01_command_shells.qmd">Command Shells</a></li>
                 <li><a href="02_python_environments.qmd">Python Environments</a></li>
@@ -47,7 +51,7 @@ title: Schedule
             </ul>
           <b>Due:</b>
             <ul>
-                <li>Intro Surveys</li>
+                <li>  </li>
             </ul>
         </td>
     </tr>
@@ -56,7 +60,7 @@ title: Schedule
     </tr>
     <tr>
         <td>Tue Jan 28</td>
-        <td> 03 -- Topics
+        <td> 03 -- Topics (TG)
             <ul>
                 <li>Git and GitHub</li>
                 <li>BU Shared Computing Cluster</li>
@@ -72,13 +76,13 @@ title: Schedule
     </tr>
     <tr>
         <td>Thu Jan 30</td>
-        <td> 04 -- Topics
+        <td> 
             <ul>
-                <li>ML Project Lifecycle</li>
+                <li>04 -- System Design for ML Projects (AN)</li>
                 <li>MLops</li>
             </ul>
         </td>
-        <td> <a href="https://docs.google.com/presentation/d/1TvUsZpY4FyOPT5Wcs_UUgg6wsizxzw4b08ETzR1AEuY">Lecture Slides</a> </td>
+        <td> Lecture Slides TBD </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr> <!-- ### Week 3 ### -->
@@ -86,9 +90,13 @@ title: Schedule
     </tr>
     <tr>
         <td>Tue Feb 4</td>
-        <td> 05 -- Team Formation and Agreement
+        <td> 05 -- Topics (TG)
+            <ul>
+                <li>ML Project Lifecycle</li>
+                <li>Team Formation and Agreement</li>
+            </ul>
         </td>
-        <td> <a href="https://docs.google.com/presentation/d/1o-e4he9keytsTxhBeOTwwPUYn_ViKt7ZlZu3Git8ekk">Lecture Slides</a> </td>
+        <td> Lecture Slides TBD </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr>
@@ -102,7 +110,7 @@ title: Schedule
     </tr>
     <tr>
         <td>Tue Feb 11</td>
-        <td> 07 -- Topics
+        <td> 07 -- Topics (TG)
             <ul>
                 <li>Project Outline Document</li>
                 <li>SCC environment setup</li>
@@ -110,7 +118,7 @@ title: Schedule
         </td>
         <td>
             <ul>
-                <li><a href="https://docs.google.com/presentation/d/1tS5gvrz5wA4tKfvVJy3EiyO_TwDpwT4XAeftjEHapK0">Lecture Slides</a></li>
+                <li>Lecture Slides TBD</li>
                 <li><a href="07_scc_cont.qmd">SCC env notes</a></li>
             </ul>
         </td>
@@ -118,13 +126,19 @@ title: Schedule
     </tr>
     <tr>
         <td>Thu Feb 13</td>
-        <td> 08 -- Topics 
+        <td> 08 -- Topics (TG)
             <ul>
                 <li> SCC Batch Computing </li>
+                <li>PLC -- Research Phase</li>
                 <li> Lab time </li>
             </ul>
         </td>
-        <td> <a href="08_scc_batch_computing.qmd">Batch computing notes</a> </td>
+        <td>
+            <ul>
+                <li><a href="08_scc_batch_computing.qmd">Batch computing notes</a></li>
+                <li>Lecture Slides TBD</li>
+            </ul>
+        </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
         <tr> <!-- ### Week 5 ### -->
@@ -132,17 +146,18 @@ title: Schedule
     </tr>
     <tr>
         <td>Tue Feb 18</td>
-        <td> <b>NO CLASS -- Monday Schedule</b> Revise: 09 -- Topics
-            <ul>
-                <li>How to read a research paper</li>
-                <li>PLC -- Research Phase</li>
-                <li>Lab time</li>
-            </ul>
+        <td> <b>NO CLASS -- Monday Schedule</b> 
         </td>
-        <td><a href="https://docs.google.com/presentation/d/161bzx5HoYdrkfjK8skaqMPirON0FyMz6BSZv_tiX9YE">Slides</a></td>
+        <td></td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr>
+        <td>Thu Feb 20</td>
+        <td>9 -- Exploratory Data Analysis (AN) </td>
+        <td> Slides TBD </td>
+        <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
+    </tr>
+    <!--<tr>
         <td>Thu Feb 20</td>
         <td>10 -- Topics
             <ul>
@@ -152,7 +167,7 @@ title: Schedule
         </td>
         <td> <a href="10-pytorch-01.qmd">PyTorch Intro (Part 1)</a> </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
-    </tr>
+    </tr> -->
         <tr> <!-- ### Week 6 ### -->
         <td colspan="4"  style="background-color: #eefcd7"><b>Week 6</b> <i>(Project Week 4 -- EDA)</i></td>
     </tr>
@@ -176,11 +191,11 @@ title: Schedule
         <td>Thu Feb 27</td>
         <td>
             <ul>
-                <li>11 -- Exploratory Data Analysis</li>
+                <li>10 -- Intro to Pytorch and Computer Vision (Guest Lecturer)</li>
                 <li>Lab time</li>
             </ul>
         </td>
-        <td> <a href="https://docs.google.com/presentation/d/13076NAdUOqW5YiirdwlFPn8n_mYhZgdemdo_q_ftuvQ">EDA Slides</a> </td>
+        <td> Slides TBD </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr> <!-- ### Week 7 ### -->
@@ -188,13 +203,21 @@ title: Schedule
     </tr>
     <tr>
         <td>Tue Mar 4</td>
-        <td colspan="3">TBD.</td>
+        <td>
+            <ul>
+                <li>11 -- PyTorch 02: Dataloaders and Transforms (AN)</li>
+                <li>Lab time</li>
+            </ul>
+        </td>
+        <td> Slides TBD </td>
+        <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr>
         <td>Thu Mar 6</td>
-        <td>
+        <td> 12 --Topics
             <ul>
-                <li>12 -- PyTorch 02: Dataloaders and Transforms</li>
+                <li>PLC Phase 04: PoC (TG)</li>
+                <li>PyTorch 03: Model Definition (AN)</li>
                 <li>Lab time</li>
             </ul>
         </td>
@@ -211,33 +234,25 @@ title: Schedule
         <td>Tue Mar 18</td>
         <td>
             <ul>
-                <li>13 -- PLC Phase 04: PoC</li>
-                <li>PyTorch 03: Model Definition</li>
+                <li>13 -- How to use LLM in your workflow (Guest Lecturer)</li>
                 <li>Lab time</li>
             </ul>
         </td>
         <td> 
-            <ul>
-                <li><a href="https://docs.google.com/presentation/d/1kC65AoQcHARBt7Rs9G2h3ktz_qJWnlN7c-_NKXaoKdU">PLC Phase 04: PoC</a> </li>
-                <li><a href="13-pytorch-03-model-def.qmd">PyTorch 03: Model Definition</a> </li>
-            </ul>
+            Slides TBD 
         </td>
-        <td><b>Assigned:</b>  <br><b>Due:</b> Presentations </td>
+        <td><b>Assigned:</b>  <br><b>Due:</b> </td>
     </tr>
     <tr>
         <td>Thu Mar 20</td>
         <td>
             <ul>
-                <li>14 -- PyTorch 04: Autograd and Backprop</li>
-                <li>15 -- PyTorch 05: Training</li>
+                <li>14 -- Introduction to AI Agents (Guest Lecturer)</li>
                 <li>Lab time</li>
             </ul>
         </td>
         <td> 
-            <ul>
-                <li><a href="14-pytorch-04-autograd.qmd">PyTorch 04: Autograd and Backprop</a> </li>
-                <li><a href="15-pytorch-05-training.qmd">PyTorch 05: Training</a> </li>
-            </ul>
+                <li>Slides TBD </li>
         </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
@@ -248,22 +263,22 @@ title: Schedule
         <td>Tue Mar 25</td>
         <td>
             <ul>
-                <li>16 -- LLM 01 - Building a Simple LLM App with LangChain</li>
+                <li>15 -- Introduction to MLOps Cloud Technologies (Gues Lecture)</li>
                 <li>Lab time</li>
             </ul>
         </td>
-        <td> <a href="16-lc01-simple-llm-app.qmd">LLM 01 - Building a Simple LLM App with LangChain</a> </td>
+        <td> Slides TBD </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr>
         <td>Thu Mar 27</td>
         <td>
             <ul>
-                <li>17 -- LLM 02 - Build a simple LLM app with LangChain</li>
+                <li>16 -- How to ace your MLE/DS job Interviews (Guest Lecturer)</li>
                 <li>Lab time</li>
             </ul>
         </td>
-        <td> <a href="17-lc02-chatbot.qmd">LLM 02 - Build a simple LLM app with LangChain</a> </td>
+        <td> Slides TBD </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr> <!-- ### Week 10 ### -->
@@ -287,7 +302,7 @@ title: Schedule
     </tr>
     <tr>
         <td>Thu Apr 3</td>
-        <td><b>Lab Day</b> -- Work with your teams on project deployment.</td>
+        <td> TBA </td>
         <td> TBA </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
@@ -297,18 +312,15 @@ title: Schedule
     <tr>
         <td>Tue Apr 8</td>
         <td>
-            <ul>
-                <li>18 -- LangChain 03: Embeddings, vector stores and retrievers</li>
-                <li>Lab time</li>
-            </ul>
+            TBA
         </td>
-        <td> <a href="18-lc03-retrievers.qmd">LangChain 03: Embeddings, vector stores and retrievers</a> </td>
+        <td> TBD </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr>
         <td>Thu Apr 10</td>
-        <td>Lecture description.</td>
-        <td> Instructor sick. Self-directed lab time. </td>
+        <td>TBD.</td>
+        <td> TBD. </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
         <tr> <!-- ### Week 12 ### -->
@@ -316,13 +328,13 @@ title: Schedule
     </tr>
     <tr>
         <td>Tue Apr 15</td>
-        <td>Lab Day -- Work with your teams on project deployment.</td>
+        <td>TBA</td>
         <td> TBA </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr>
         <td>Thu Apr 17</td>
-        <td>Lab Day -- Work with your teams on project deployment</td>
+        <td>TBA</td>
         <td> TBA </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
@@ -331,20 +343,22 @@ title: Schedule
     </tr>
     <tr>
         <td>Tue Apr 22</td>
-        <td>Lab Day -- Work with your teams on project deployment and evaluation</td>
+        <td>TBA</td>
         <td>  TBA </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>Beta milestone check-in</td>
     </tr>
     <tr>
         <td>Thu Apr 24</td>
-        <td colspan="3">No class. Thanksgiving recess.</td>
+        <td>TBA.</td>
+        <td> TBA </td>
+        <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr> <!-- ### Week 14 ### -->
         <td colspan="4"  style="background-color: #e8d7fc"><b>Week 14</b> <i>(Project Week 12 -- Evaluation)</i></td>
     </tr>
     <tr>
         <td>Tue Apr 29</td>
-        <td>Lab day -- Work with your team on project deployment/evaluation and final presentations.</td>
+        <td>TBA</td>
         <td>  TBA </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
@@ -364,5 +378,22 @@ title: Schedule
         <td> TBA </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
+
+
+<!-- parking
+    <tr>
+        <td>Tue Feb 18</td>
+        <td> <b>NO CLASS -- Monday Schedule</b> Revise: 09 -- Topics
+            <ul>
+                <li>How to read a research paper</li>
+                <li>PLC -- Research Phase</li>
+                <li>Lab time</li>
+            </ul>
+        </td>
+        <td><a href="https://docs.google.com/presentation/d/161bzx5HoYdrkfjK8skaqMPirON0FyMz6BSZv_tiX9YE">Slides</a></td>
+        <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
+    </tr>
+-->
+
 </table>
 ```
