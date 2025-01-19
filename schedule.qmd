@@ -356,14 +356,8 @@ Abbreviations:
     <tr> <!-- ### Week 14 ### -->
         <td colspan="4"  style="background-color: #e8d7fc"><b>Week 14</b> <i>(Project Week 12 -- Evaluation)</i></td>
     </tr>
-    <tr>
+    <tr  style="background-color: #fcd7e2">
         <td>Tue Apr 29</td>
-        <td>TBA</td>
-        <td>  TBA </td>
-        <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
-    </tr>
-    <tr   style="background-color: #fcd7e2">
-        <td>Thu May 1</td>
         <td>
             <b>Project Final Presentations</b>
             <ul>
@@ -375,6 +369,12 @@ Abbreviations:
                 <li>6:05 -- 6:15 : Team 6</li>
             </ul>
         </td>
+        <td>  TBA </td>
+        <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
+    </tr>
+    <tr>
+        <td>Thu May 1</td>
+        <td> TBA </td>
         <td> TBA </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
