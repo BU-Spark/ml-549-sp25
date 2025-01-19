@@ -244,12 +244,40 @@ While students will be presented with an initial project description from Spark!
 ### Grade Weightings
 Your final grade will be a weighted sum of grades received in the following categories: 
 
-| % of Grade | Category | Notes |
-| ---------- | -------- | ----- |
-| 15% | Assignments | Grading rubrics are available on individual assignment pages. |
-| 10% | Attendance and Participation | Students are graded on their in attendance, participation and engagement during lectures. |
-| 15% | Presentations | Student teams will give interim and final presentation on their projects to the rest of the class. All students on a team will receive the same grade. |
-| 60% | Project | Students are graded on their individual contributions and overall quality of the project (see below) |
+```{=html}
+<table>
+	<tbody>
+		<tr>
+			<th> % of Grade </th>
+			<th> Category </th>
+			<th> Notes </th>
+		</tr>
+		<tr>
+			<td> 25% </td>
+			<td> Assignments </td>
+			<td>  
+				<ul>
+					<li>Grading rubrics are available on individual assignment pages.</li>
+					<li> Student teams will give interim and final presentation on their projects to the rest of the class. </li>
+					<ul>
+						<li> For each team assignment, there will be an accompanying individual contribution assessment as well. </li>
+					</ul>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td> 10% </td>
+			<td> Attendance and Participation </td>
+			<td> Students are graded on their in attendance, participation and engagement during lectures. </td>
+		</tr>
+		<tr>
+			<td> 65% </td>
+			<td> Project </td>
+			<td> Students are graded on the overall impact and quality of the project as well as their individual contributions and (see below) </td>
+		</tr>
+	</tbody>
+</table>
+```
 
 Given that this is a practicum, the project is central to this course and is
 worth 60% of your final grade. We will be partnering with BU Spark! to work on a
@@ -278,6 +306,7 @@ individual contributions.
 				<li> Did the project accomplish a sufficient number of (possibly
 				     revised) objectives?</li>
 				<li> Was the client relationship managed well? </li>
+				<li> Did the implementation show innovation and rigor? </li>
 			  </ul>
 			</td>
 		</tr>
