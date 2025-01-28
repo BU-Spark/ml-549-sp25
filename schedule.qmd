@@ -82,7 +82,6 @@ Abbreviations:
                 <li>MLops</li>
             </ul>
         </td>
-        <td> Lecture Slides TBD </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr> <!-- ### Week 3 ### -->
