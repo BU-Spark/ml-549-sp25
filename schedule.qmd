@@ -79,7 +79,6 @@ Abbreviations:
         <td> 
             <ul>
                 <li>04 -- System Design for ML Projects (AN)</li>
-                <li>MLops</li>
             </ul>
         </td>
         <td> Lecture Slides TBD </td>
@@ -153,8 +152,7 @@ Abbreviations:
     </tr>
     <tr>
         <td>Thu Feb 20</td>
-        <td>9 -- Exploratory Data Analysis (AN) </td>
-        <td> Slides TBD </td>
+        <td>9 -- LLMs for Doc Processing (AN) </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <!--<tr>
