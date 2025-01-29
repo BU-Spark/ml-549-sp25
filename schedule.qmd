@@ -81,7 +81,7 @@ Abbreviations:
                 <li>04 -- System Design for ML Projects (AN)</li>
             </ul>
         </td>
-        <td> Lecture Slides TBD </td>
+        <td> (none) </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr> <!-- ### Week 3 ### -->
