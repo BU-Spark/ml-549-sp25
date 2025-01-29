@@ -82,6 +82,7 @@ Abbreviations:
                 <li>MLops</li>
             </ul>
         </td>
+        <td> (none) </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr> <!-- ### Week 3 ### -->
