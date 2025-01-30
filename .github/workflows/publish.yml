@@ -57,6 +57,8 @@ jobs:
 
       - name: Render Quarto Project
         uses: quarto-dev/quarto-actions/render@v2
+        with:
+          execute: never
         env:
           QUARTO_DENO_V8_OPTIONS: --stack-size=8192
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
