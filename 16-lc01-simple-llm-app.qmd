@@ -1,6 +1,8 @@
 ---
 title: LangChain 01 --Build a Simple LLM Application with LangChain
 jupyter: python3
+execute:
+  eval: false
 ---
 
 ## Overview
