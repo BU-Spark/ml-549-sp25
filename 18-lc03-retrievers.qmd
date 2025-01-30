@@ -1,6 +1,8 @@
 ---
 title: LangChain 03 -- Embeddings, vector stores and retrievers
 jupyter: python3
+execute:
+  eval: false
 ---
 
 ## Introduction
