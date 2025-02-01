@@ -127,8 +127,7 @@ Abbreviations:
         <td>Thu Feb 13</td>
         <td> 08 -- Topics (TG)
             <ul>
-                <li> SCC Batch Computing </li>
-                <li>PLC -- Research Phase</li>
+                <li> ML Model Deployment Options (Mehdi J) </li>
                 <li> Lab time </li>
             </ul>
         </td>
@@ -152,7 +151,7 @@ Abbreviations:
     </tr>
     <tr>
         <td>Thu Feb 20</td>
-        <td>9 -- LLMs for Doc Processing (AN) </td>
+        <td>9 -- LLMs for Doc Processing (Audri B) </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <!--<tr>
