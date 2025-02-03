@@ -95,7 +95,7 @@ Abbreviations:
                 <li>Team Formation and Agreement</li>
             </ul>
         </td>
-        <td> Lecture Slides TBD </td>
+        <td> <a href="https://docs.google.com/presentation/d/1TvUsZpY4FyOPT5Wcs_UUgg6wsizxzw4b08ETzR1AEuY/edit?usp=sharing">Lecture Slides</a> </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr>
