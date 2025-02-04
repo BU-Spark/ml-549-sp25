@@ -109,34 +109,19 @@ Abbreviations:
     </tr>
     <tr>
         <td>Tue Feb 11</td>
-        <td> 07 -- Topics (TG)
-            <ul>
-                <li>Project Outline Document</li>
-                <li>SCC environment setup</li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>Lecture Slides TBD</li>
-                <li><a href="07_scc_cont.qmd">SCC env notes</a></li>
-            </ul>
-        </td>
+        <td> Lab Time </td>
+        <td> None </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr>
         <td>Thu Feb 13</td>
-        <td> 08 -- Topics (TG)
+        <td> 08 -- Topics
             <ul>
                 <li> ML Model Deployment Options (Mehdi J) </li>
                 <li> Lab time </li>
             </ul>
         </td>
-        <td>
-            <ul>
-                <li><a href="08_scc_batch_computing.qmd">Batch computing notes</a></li>
-                <li>Lecture Slides TBD</li>
-            </ul>
-        </td>
+        <td> None </td>
         <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
         <tr> <!-- ### Week 5 ### -->
