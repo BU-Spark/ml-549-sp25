@@ -7,27 +7,24 @@ Abbreviations:
 - TG: Thomas Gardos
 - AN: Ali Nahvi
 
+**See GradeScope for assignments and due dates.**
+
 ```{=html}
 <table>
     <tr>
         <th>Date</th>
         <th>Description</th>
         <th>Course Materials</th>
-        <th>Handouts and Due Dates</th>
     </tr>
     <tr> <!-- ### Week 1 ### -->
-        <!-- <td colspan="4" style="background-color: #D8BFD8">Week 0</td> -->
-        <td colspan="4"  style="background-color: #ededed"><b>Week 1</b> <i>(Preliminaries)</i></td>
+        <!-- <td  colspan="3" style="background-color: #D8BFD8">Week 0</td> -->
+        <td  colspan="3"  style="background-color: #ededed"><b>Week 1</b> <i>(Preliminaries)</i></td>
     </tr>
     <tr>
         <td>Tue Jan 21</td>
         <td>01 -- Welcome, introduction, and course overview (TG, AN).</td>
         <td> <a href="https://docs.google.com/presentation/d/135_D1DNMp4JsDGHHoYZ_u33NRe6r6xiiVFexs76M2jI/edit?usp=sharing">Lecture Slides</a></td>
-        <td><b>Assigned:</b>
-          <ul>
-            <li>Intro Survey (Gradescope)</li>
-          </ul>
-          <br><b>Due:</b> 11:59pm tonight </td>
+
     </tr>
     <tr>
         <td>Thu Jan 23</td>
@@ -44,19 +41,9 @@ Abbreviations:
                 <li><a href="02_python_environments.qmd">Python Environments</a></li>
             </ul>
         </td>
-        <td>
-          <b>Assigned:</b> 
-            <ul>
-                <li><a href="02_python_environments.qmd">HW2-Python Environments</a></li>
-            </ul>
-          <b>Due:</b>
-            <ul>
-                <li>  </li>
-            </ul>
-        </td>
     </tr>
     <tr> <!-- ### Week 2 ### -->
-        <td colspan="4" style="background-color: #ededed"><b>Week 2</b> <i>(Preliminaries)</i></td>
+        <td  colspan="3" style="background-color: #ededed"><b>Week 2</b> <i>(Preliminaries)</i></td>
     </tr>
     <tr>
         <td>Tue Jan 28</td>
@@ -72,7 +59,6 @@ Abbreviations:
                 <li><a href="04_scc.qmd">BU Shared Computing Cluster</a></li>
             </ul>
         </td>
-        <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr>
         <td>Thu Jan 30</td>
@@ -82,10 +68,9 @@ Abbreviations:
             </ul>
         </td>
         <td> (none) </td>
-        <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr> <!-- ### Week 3 ### -->
-        <td colspan="4"  style="background-color: #fce9d7"><b>Week 3</b> <i>(Project Week 1 -- Project Definition)</i></td>
+        <td  colspan="3"  style="background-color: #fce9d7"><b>Week 3</b> <i>(Project Week 1 -- Project Definition)</i></td>
     </tr>
     <tr>
         <td>Tue Feb 4</td>
@@ -96,22 +81,24 @@ Abbreviations:
             </ul>
         </td>
         <td> <a href="https://docs.google.com/presentation/d/1TvUsZpY4FyOPT5Wcs_UUgg6wsizxzw4b08ETzR1AEuY/edit?usp=sharing">Lecture Slides</a> </td>
-        <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr>
         <td>Thu Feb 6</td>
         <td> 06 -- ML Ethics (Seth V.)</td>
         <td> Lecture Slides TBD </td>
-        <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
         <tr> <!-- ### Week 4 ### -->
-        <td colspan="4"  style="background-color: #fce9d7"><b>Week 4</b> <i>(Project Week 2 -- Project Definition)</i></td>
+        <td  colspan="3"  style="background-color: #fce9d7"><b>Week 4</b> <i>(Project Week 2 -- Project Definition)</i></td>
     </tr>
     <tr>
         <td>Tue Feb 11</td>
-        <td> Lab Time </td>
-        <td> None </td>
-        <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
+        <td>
+            <ul>
+                <li>07 -- Research Phase (TG)</li>
+                <li>Lab Time</li>
+            </ul>
+        </td>
+        <td> Slides TBD </td>
     </tr>
     <tr>
         <td>Thu Feb 13</td>
@@ -122,22 +109,20 @@ Abbreviations:
             </ul>
         </td>
         <td> None </td>
-        <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
         <tr> <!-- ### Week 5 ### -->
-        <td colspan="4"  style="background-color: #fcfad7"><b>Week 5</b> <i>(Project Week 3 -- Research)</i></td>
+        <td  colspan="3"  style="background-color: #fcfad7"><b>Week 5</b> <i>(Project Week 3 -- Research)</i></td>
     </tr>
     <tr>
         <td>Tue Feb 18</td>
         <td> <b>NO CLASS -- Monday Schedule</b> 
         </td>
         <td></td>
-        <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr>
         <td>Thu Feb 20</td>
         <td>9 -- LLMs for Doc Processing (Audri B) </td>
-        <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
+        <td> Slides TBD </td>
     </tr>
     <!--<tr>
         <td>Thu Feb 20</td>
@@ -148,10 +133,9 @@ Abbreviations:
             </ul>
         </td>
         <td> <a href="10-pytorch-01.qmd">PyTorch Intro (Part 1)</a> </td>
-        <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr> -->
         <tr> <!-- ### Week 6 ### -->
-        <td colspan="4"  style="background-color: #eefcd7"><b>Week 6</b> <i>(Project Week 4 -- EDA)</i></td>
+        <td  colspan="3"  style="background-color: #eefcd7"><b>Week 6</b> <i>(Project Week 4 -- EDA)</i></td>
     </tr>
     <tr   style="background-color: #fcd7e2">
         <td>Tue Feb 25</td>
@@ -167,7 +151,6 @@ Abbreviations:
             </ul>
         </td>
         <td> TBA </td>
-        <td><b>Assigned:</b>  <br><b>Due:</b> Presentations </td>
     </tr>
     <tr>
         <td>Thu Feb 27</td>
@@ -178,10 +161,9 @@ Abbreviations:
             </ul>
         </td>
         <td> Slides TBD </td>
-        <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr> <!-- ### Week 7 ### -->
-        <td colspan="4"  style="background-color: #eefcd7"><b>Week 7</b> <i>(Project Week 5 -- EDA)</i></td>
+        <td  colspan="3"  style="background-color: #eefcd7"><b>Week 7</b> <i>(Project Week 5 -- EDA)</i></td>
     </tr>
     <tr>
         <td>Tue Mar 4</td>
@@ -192,7 +174,6 @@ Abbreviations:
             </ul>
         </td>
         <td> Slides TBD </td>
-        <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr>
         <td>Thu Mar 6</td>
@@ -204,13 +185,12 @@ Abbreviations:
             </ul>
         </td>
         <td> <a href="12-pytorch-02-dataloaders.qmd">Dataloaders and Transforms</a> </td>
-        <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr> <!-- ### Spring Recess ### -->
-        <td colspan="4" style="background-color: ##fcba03"><b>Spring Recess</b></td>
+        <td  colspan="3" style="background-color: ##fcba03"><b>Spring Recess</b></td>
     </tr>
     <tr> <!-- ### Week 8 ### -->
-        <td colspan="4"  style="background-color: #d7fcf8"><b>Week 8</b> <i>(Project Week 6 -- PoC)</i></td>
+        <td  colspan="3"  style="background-color: #d7fcf8"><b>Week 8</b> <i>(Project Week 6 -- PoC)</i></td>
     </tr>
     <tr>
         <td>Tue Mar 18</td>
@@ -223,7 +203,6 @@ Abbreviations:
         <td> 
             Slides TBD 
         </td>
-        <td><b>Assigned:</b>  <br><b>Due:</b> </td>
     </tr>
     <tr>
         <td>Thu Mar 20</td>
@@ -236,10 +215,9 @@ Abbreviations:
         <td> 
                 <li>Slides TBD </li>
         </td>
-        <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
         <tr> <!-- ### Week 9 ### -->
-        <td colspan="4"  style="background-color: #d7fcf8"><b>Week 9</b> <i>(Project Week 7 -- PoC)</i></td>
+        <td  colspan="3"  style="background-color: #d7fcf8"><b>Week 9</b> <i>(Project Week 7 -- PoC)</i></td>
     </tr>
     <tr>
         <td>Tue Mar 25</td>
@@ -250,7 +228,6 @@ Abbreviations:
             </ul>
         </td>
         <td> Slides TBD </td>
-        <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr>
         <td>Thu Mar 27</td>
@@ -261,10 +238,9 @@ Abbreviations:
             </ul>
         </td>
         <td> Slides TBD </td>
-        <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr> <!-- ### Week 10 ### -->
-        <td colspan="4"  style="background-color: #d7e2fc"><b>Week 10</b> <i>(Project Week 8 -- Deployment)</i></td>
+        <td  colspan="3"  style="background-color: #d7e2fc"><b>Week 10</b> <i>(Project Week 8 -- Deployment)</i></td>
     </tr>
     <tr style="background-color: #fcd7e2">
         <td>Tue Apr 1</td>
@@ -280,16 +256,14 @@ Abbreviations:
             </ul>
         </td>
         <td>  TBA </td>
-        <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
     <tr>
         <td>Thu Apr 3</td>
         <td> TBA </td>
         <td> TBA </td>
-        <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
     </tr>
         <tr> <!-- ### Week 11 ### -->
-        <td colspan="4"  style="background-color: #d7e2fc"><b>Week 11</b> <i>(Project Week 9 -- Deployment)</i></td>
+        <td  colspan="3"  style="background-color: #d7e2fc"><b>Week 11</b> <i>(Project Week 9 -- Deployment)</i></td>
     </tr>
     <tr>
         <td>Tue Apr 8</td>
@@ -297,46 +271,46 @@ Abbreviations:
             TBA
         </td>
         <td> TBD </td>
-        <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
+ 
     </tr>
     <tr>
         <td>Thu Apr 10</td>
         <td>TBD.</td>
         <td> TBD. </td>
-        <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
+ 
     </tr>
         <tr> <!-- ### Week 12 ### -->
-        <td colspan="4"  style="background-color: #d7e2fc"><b>Week 12</b> <i>(Project Week 10 -- Deployment)</i></td>
+        <td  colspan="3"  style="background-color: #d7e2fc"><b>Week 12</b> <i>(Project Week 10 -- Deployment)</i></td>
     </tr>
     <tr>
         <td>Tue Apr 15</td>
         <td>TBA</td>
         <td> TBA </td>
-        <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
+ 
     </tr>
     <tr>
         <td>Thu Apr 17</td>
         <td>TBA</td>
         <td> TBA </td>
-        <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
+ 
     </tr>
     <tr> <!-- ### Week 13 ### -->
-        <td colspan="4"  style="background-color: #e8d7fc"><b>Week 13</b> <i>(Project Week 11 -- Evaluation)</i></td>
+        <td  colspan="3"  style="background-color: #e8d7fc"><b>Week 13</b> <i>(Project Week 11 -- Evaluation)</i></td>
     </tr>
     <tr>
         <td>Tue Apr 22</td>
         <td>TBA</td>
         <td>  TBA </td>
-        <td><b>Assigned:</b>  <br><b>Due:</b>Beta milestone check-in</td>
+
     </tr>
     <tr>
         <td>Thu Apr 24</td>
         <td>TBA.</td>
         <td> TBA </td>
-        <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
+ 
     </tr>
     <tr> <!-- ### Week 14 ### -->
-        <td colspan="4"  style="background-color: #e8d7fc"><b>Week 14</b> <i>(Project Week 12 -- Wrap Up)</i></td>
+        <td  colspan="3"  style="background-color: #e8d7fc"><b>Week 14</b> <i>(Project Week 12 -- Wrap Up)</i></td>
     </tr>
     <tr  style="background-color: #fcd7e2">
         <td>Tue Apr 29</td>
@@ -352,19 +326,19 @@ Abbreviations:
             </ul>
         </td>
         <td>  TBA </td>
-        <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
+ 
     </tr>
     <tr>
         <td>Thu May 1</td>
         <td> Spark/Class Evals and Project Wrap Up </td>
         <td> TBA </td>
-        <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
+ 
     </tr>
     <tr>
         <td>Fri May 2</td>
         <td> 4pm -- 7pm Spark Demo Day </td>
         <td> Mandatory Attendance </td>
-        <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
+ 
     </tr>
 
 
@@ -379,7 +353,7 @@ Abbreviations:
             </ul>
         </td>
         <td><a href="https://docs.google.com/presentation/d/161bzx5HoYdrkfjK8skaqMPirON0FyMz6BSZv_tiX9YE">Slides</a></td>
-        <td><b>Assigned:</b>  <br><b>Due:</b>   </td>
+ 
     </tr>
 -->
 
