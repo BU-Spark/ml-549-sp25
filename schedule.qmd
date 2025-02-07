@@ -85,7 +85,7 @@ Abbreviations:
     <tr>
         <td>Thu Feb 6</td>
         <td> 06 -- ML Ethics (Seth V.)</td>
-        <td> Lecture Slides TBD </td>
+         <td> <a href="https://docs.google.com/presentation/d/1Jk1DnLA7pfm7C-5zT9-TTt7nyePOJpWX/edit#slide=id.p1">Lecture Slides</a></td>
     </tr>
         <tr> <!-- ### Week 4 ### -->
         <td  colspan="3"  style="background-color: #fce9d7"><b>Week 4</b> <i>(Project Week 2 -- Project Definition)</i></td>
