@@ -121,7 +121,7 @@ Abbreviations:
     </tr>
     <tr>
         <td>Thu Feb 20</td>
-        <td>9 -- LLMs for Doc Processing (Audri B) </td>
+        <td>9 -- Value Driven EDA </td>
         <td> Slides TBD </td>
     </tr>
     <!--<tr>
@@ -196,7 +196,7 @@ Abbreviations:
         <td>Tue Mar 18</td>
         <td>
             <ul>
-                <li>13 -- How to use LLM in your workflow (Guest Lecturer)</li>
+                <li>13 -- How to use LLM in your workflow (Audri B)</li>
                 <li>Lab time</li>
             </ul>
         </td>
