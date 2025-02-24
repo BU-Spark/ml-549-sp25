@@ -269,6 +269,9 @@ Abbreviations:
     <tr>
         <td>Tue Apr 8</td>
         <td>
+            <b>How to show your work?</b>
+            <ul>
+        <td>
             TBA
         </td>
         <td> TBD </td>
