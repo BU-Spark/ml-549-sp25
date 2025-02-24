@@ -32,10 +32,11 @@ select lectures and assignments.
 * Office hours:  Tuesdays and Thursdays, 1:30-3:00pm
 * Location: CDS 1623
 
-**Ali Nahvi** (TBD)
+**Ali Nahvi** (anahvi@bu.com)
 
 * Office hours: Thursdays 4-5pm
-* Location: TBD
+* Location: Room 206B
+* for on demand Office Hours contact me at anahvi@bu.com
 
 Project Managers and TE:
 
