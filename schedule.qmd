@@ -170,7 +170,7 @@ Abbreviations:
         <td>Tue Mar 4</td>
         <td>
             <ul>
-                <li>11 -- PyTorch 02: Dataloaders and Transforms (AN)</li>
+                <li>11 -- Computer Vision (II) </li>
                 <li>Lab time</li>
             </ul>
         </td>
@@ -181,7 +181,7 @@ Abbreviations:
         <td> 12 --Topics
             <ul>
                 <li>PLC Phase 04: PoC (TG)</li>
-                <li>PyTorch 03: Model Definition (AN)</li>
+                <li>PyTorch 03: How to manage scrum board (AN)</li>
                 <li>Lab time</li>
             </ul>
         </td>
@@ -224,7 +224,7 @@ Abbreviations:
         <td>Tue Mar 25</td>
         <td>
             <ul>
-                <li>15 -- Introduction to MLOps Cloud Technologies (Gues Lecture)</li>
+                <li>15 -- How to evaluate AI models and projects? (AN)</li>
                 <li>Lab time</li>
             </ul>
         </td>
