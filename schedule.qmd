@@ -181,11 +181,11 @@ Abbreviations:
         <td> 12 --Topics
             <ul>
                 <li>PLC Phase 04: PoC (TG)</li>
-                <li>PyTorch 03: How to manage scrum board (AN)</li>
+                <li>How to manage scrum board (AN)</li>
                 <li>Lab time</li>
             </ul>
         </td>
-        <td> <a href="12-pytorch-02-dataloaders.qmd">Dataloaders and Transforms</a> </td>
+        <td>  </td>
     </tr>
     <tr> <!-- ### Spring Recess ### -->
         <td  colspan="3" style="background-color: ##fcba03"><b>Spring Recess</b></td>
