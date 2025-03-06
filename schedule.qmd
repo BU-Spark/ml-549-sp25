@@ -185,7 +185,7 @@ Abbreviations:
                 <li>Lab time</li>
             </ul>
         </td>
-        <td>  </td>
+        <td> <a href="https://docs.google.com/presentation/d/1KBYF0V69S6rtQKd6P8vLv9IxoRTiazUNiQxPQtxoshU/edit?usp=drive_link" >Slides</a> </td>
     </tr>
     <tr> <!-- ### Spring Recess ### -->
         <td  colspan="3" style="background-color: ##fcba03"><b>Spring Recess</b></td>
