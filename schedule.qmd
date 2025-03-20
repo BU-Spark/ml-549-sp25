@@ -186,7 +186,7 @@ Abbreviations:
                 <li>Lab time</li>
             </ul>
         </td>
-        <td> <a href="12-pytorch-02-dataloaders.qmd">Dataloaders and Transforms</a> </td>
+        <td>  </td>
     </tr>
     <tr> <!-- ### Spring Recess ### -->
         <td  colspan="3" style="background-color: ##fcba03"><b>Spring Recess</b></td>
