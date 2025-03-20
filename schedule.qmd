@@ -270,7 +270,7 @@ Abbreviations:
     <tr>
         <td>Tue Apr 8</td>
         <td>
-            </td>How to show your work?</td>
+            <td>How to show your work?</td>
 
             <ul>
         <td>
