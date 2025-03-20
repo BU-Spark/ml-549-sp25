@@ -171,6 +171,7 @@ Abbreviations:
         <td>
             <ul>
                 <li>11 -- Computer Vision (II) </li>
+                <td> <a href="https://docs.google.com/presentation/d/1rd-vzsQ-yryjsCpK2eEMMQPMg7ltc-l9/edit?usp=drive_link&ouid=114742028879960612932&rtpof=true&sd=true">Slides</a> </td>
                 <li>Lab time</li>
             </ul>
         </td>
@@ -181,7 +182,7 @@ Abbreviations:
         <td> 12 --Topics
             <ul>
                 <li>PLC Phase 04: PoC (TG)</li>
-                <li>How to manage scrum board (AN)</li>
+                <li>How to manage a scrum board (AN)</li>
                 <li>Lab time</li>
             </ul>
         </td>
@@ -269,7 +270,8 @@ Abbreviations:
     <tr>
         <td>Tue Apr 8</td>
         <td>
-            <b>How to show your work?</b>
+            <td>How to show your work?</td>
+
             <ul>
         <td>
             TBA
