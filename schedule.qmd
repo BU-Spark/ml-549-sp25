@@ -210,7 +210,7 @@ Abbreviations:
         <td>Thu Mar 20</td>
         <td>
             <ul>
-                <li>14 -- Introduction to AI Agents (Guest Lecturer)</li>
+                <li>14 -- How to evaluate AI models I </li>
                 <li>Lab time</li>
             </ul>
         </td>
@@ -225,7 +225,7 @@ Abbreviations:
         <td>Tue Mar 25</td>
         <td>
             <ul>
-                <li>15 -- How to evaluate AI models and projects? (AN)</li>
+                <li>15 -- How to evaluate AI models II (AN)</li>
                 <li>Lab time</li>
             </ul>
         </td>
@@ -260,7 +260,7 @@ Abbreviations:
         <td>  TBA </td>
     </tr>
     <tr>
-        <td>Thu Apr 3</td>
+        <td>Mastering the Art of AI Storytelling: Crafting Compelling Project Narratives</td>
         <td> TBA </td>
         <td> TBA </td>
     </tr>
