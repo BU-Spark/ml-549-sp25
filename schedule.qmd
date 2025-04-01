@@ -249,12 +249,13 @@ Abbreviations:
         <td>
             <b>Project EDA and PoC Presentations</b>
             <ul>
-                <li>5:05 -- 5:15 : Team 1</li>
-                <li>5:17 -- 5:27 : Team 2 </li>
-                <li>5:29 -- 5:39 : Team 3 </li>
-                <li>5:41 -- 5:51 : Team 4 </li>
-                <li>5:53 -- 6:03 : Team 5 </li>
-                <li>6:05 -- 6:15 : Team 6 </li>
+                <li>5:05 -- 5:13 : Stranger Danger</li>
+                <li>5:15 -- 5:23 : Coffee Chat Matchmaker</li>
+                <li>5:25 -- 5:33 : MA Voter Language Prediction </li>
+                <li>5:35 -- 5:43 : WLFC Image Classification </li>
+                <li>5:45 -- 5:53 : BU Law Legal Chatbot </li>
+                <li>5:55 -- 6:03 : MU Met Autograding </li>
+                <li>6:05 -- 6:13 : Boston Public Library LLM Search </li>
             </ul>
         </td>
         <td>  TBA </td>
