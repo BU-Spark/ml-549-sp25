@@ -13,3 +13,5 @@ data/
 
 # MacOS System Files
 .DS_Store
+
+cifar10_images/
