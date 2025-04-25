@@ -171,7 +171,7 @@ Abbreviations:
         <td>
             <ul>
                 <li>11 -- Computer Vision (II) </li>
-                <td> <a href="https://docs.google.com/presentation/d/1rd-vzsQ-yryjsCpK2eEMMQPMg7ltc-l9/edit?usp=drive_link&ouid=114742028879960612932&rtpof=true&sd=true">Slides</a> </td>
+                <li> <a href="https://docs.google.com/presentation/d/1rd-vzsQ-yryjsCpK2eEMMQPMg7ltc-l9/edit?usp=drive_link&ouid=114742028879960612932&rtpof=true&sd=true">Slides</a> </li>
                 <li>Lab time</li>
             </ul>
         </td>
@@ -271,14 +271,9 @@ Abbreviations:
     <tr>
         <td>Tue Apr 8</td>
         <td>
-            <td>How to show your work?</td>
-
-            <ul>
-        <td>
-            TBA
+            How to show your work?
         </td>
-        <td> TBD </td>
- 
+        <td> TBD </td> 
     </tr>
     <tr>
         <td>Thu Apr 10</td>
@@ -324,12 +319,13 @@ Abbreviations:
         <td>
             <b>Project Final Presentations</b>
             <ul>
-                <li>5:05 -- 5:15 : Team 1</li>
-                <li>5:17 -- 5:27 : Team 2</li>
-                <li>5:29 -- 5:39 : Team 3</li>
-                <li>5:41 -- 5:51 : Team 4</li>
-                <li>5:53 -- 6:03 : Team 5</li>
-                <li>6:05 -- 6:15 : Team 6</li>
+                <li>5:05 -- 5:13 : Boston Public Library LLM Search</li>
+                <li>5:15 -- 5:23 : WLFC Image Classification</li>
+                <li>5:25 -- 5:33 : Coffee Chat Matchmaker </li>
+                <li>5:35 -- 5:43 : Stranger Danger </li>
+                <li>5:45 -- 5:53 : MA Voter Language Prediction </li>
+                <li>5:55 -- 6:03 : BU Law Legal Chatbot </li>
+                <li>6:05 -- 6:13 : BU Met Autograding </li>
             </ul>
         </td>
         <td>  TBA </td>
