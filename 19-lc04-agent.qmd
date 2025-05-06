@@ -1,6 +1,8 @@
 ---
 title: LangChain 04 - Build an Agent
 jupyter: python3
+execute:
+  eval: false
 ---
 
 :::info Prerequisites
